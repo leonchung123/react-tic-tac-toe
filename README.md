@@ -1,5 +1,5 @@
 # react-tic-tac-toe
-A Tic-Tac-Toe game written using React.js
+A Tic-Tac-Toe game written using React.js<br />
 Leon Chung 2020
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
