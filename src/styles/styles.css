@@ -1,0 +1,22 @@
+.square-style {
+    background: #ffab00;
+    border: 2px solid #c67c00;
+    font-size: 30px;
+    font-weight: 800;
+    cursor: pointer;
+    outline: none;
+}
+
+.square-style:hover {
+    background: red;
+}
+
+.board-style {
+    border: 4px solid #c67c00;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
