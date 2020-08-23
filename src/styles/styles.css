@@ -8,7 +8,7 @@
 }
 
 .square-style:hover {
-    background: red;
+    background: #ffdd4b;
 }
 
 .board-style {
@@ -19,4 +19,9 @@
     margin: 0 auto;
     display: grid;
     grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
+
+.text-style {
+    width: 200px;
+    margin: 20px auto;
 }
