@@ -1,3 +1,8 @@
+/*
+  Tic-Tac-Toe written using React.js
+  Leon Chung 2020
+*/
+
 const calculateWinner = (squares) => { // squares is the state of the board
     const lines = [
         [0, 1, 2],  // each element in the array is an index of the game board

@@ -1,3 +1,8 @@
+/*
+  Tic-Tac-Toe written using React.js
+  Leon Chung 2020
+*/
+
 import React, { useState } from 'react';
 import Board from './Board';
 import { calculateWinner, checkFullBoard, checkEmptyBoard } from '../helpers'
